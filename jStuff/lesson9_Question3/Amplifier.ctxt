@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Amplifier
+comment1.params=r1\ r2
+comment1.target=Amplifier(int,\ int)
+comment1.text=\n\ Constructs\ an\ operational\ Amplifier\n\ @param\ resistance1\ the\ first\ resistance\n\ @param\ resistance2\ the\ second\ resistance\n
+comment2.params=
+comment2.target=int\ getR1()
+comment2.text=\n\ Gets\ the\ first\ resistance\n\ @return\ the\ first\ resistance\n
+comment3.params=
+comment3.target=int\ getR2()
+comment3.text=\n\ Gets\ the\ second\ resistance\n\ @return\ the\ second\ resistance\n
+comment4.params=resistance
+comment4.target=void\ setR1(int)
+comment4.text=\n\ Set\ a\ new\ value\ for\ the\ first\ resistance\n\ @param\ resistance\ the\ new\ resistance\n
+comment5.params=resistance
+comment5.target=void\ setR2(int)
+comment5.text=\n\ Set\ a\ new\ value\ for\ the\ second\ resistance\n\ @param\ resistance\ the\ new\ resistance\n
+comment6.params=
+comment6.target=double\ getGain()
+comment6.text=\n\ Gets\ the\ gain\ for\ this\ amplifier\ circuit\n\ @return\ the\ gain\n
+numComments=7
