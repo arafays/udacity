@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cube
+comment1.params=
+comment1.target=Cube()
+comment1.text=\n\ Constructor\ of\ the\ Cube\ object\n
+comment2.params=s
+comment2.target=Cube(double)
+comment2.text=\n\ Constructor\ of\ the\ Cube\ object\n\ @param\ s\ the\ side\ of\ a\ cube\ object\n
+comment3.params=
+comment3.target=double\ getVolume()
+comment3.text=\n\ Calculates\ the\ volume\n\ @return\ volume\ of\ the\ Cube\n
+comment4.params=
+comment4.target=double\ getSurfaceArea()
+comment4.text=\n\ Calculates\ the\ surface\ area\n\ @return\ surface\ area\ of\ the\ Cube\ \n
+numComments=5
