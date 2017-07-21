@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Substance
+comment1.params=initialMass\ rateOfDecayInPercent
+comment1.target=Substance(double,\ double)
+comment1.text=\n\ \ \ \ \ \ Constructs\ an\ object\ representing\ a\ decaying\ radioactive\ substance\n\ \ \ \ \ \ @param\ initialMass\ the\ initial\ mass\n\ \ \ \ \ \ @param\ rateOfDecayInPercent\ the\ annual\ rate\ of\ decay,\ as\ a\ percentage\ value\n\ \ \ \ \ \ (5%\ is\ entered\ as\ 5)\n
+comment2.params=
+comment2.target=double\ getMass()
+comment2.text=\n\ \ \ \ \ \ Gets\ the\ current\ mass\ of\ the\ substance.\n\ \ \ \ \ \ @return\ the\ current\ mass\n
+comment3.params=
+comment3.target=void\ decayOneYear()
+comment3.text=\n\ \ \ \ \ \ Simulates\ the\ decay\ of\ this\ substance\ over\ one\ year.\n\ \ \ \ \ \ After\ this\ method\ call,\ the\ mass\ as\ been\ reduced\ by\ the\ rate\ of\ decay\n
+numComments=4

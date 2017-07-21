@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DecayRunner
+comment0.text=\n\ This\ application\ assumes\ a\ well-behaved\ user\ who\ always\n\ enters\ valid\ data\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
