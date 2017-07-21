@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RectangleList
+comment1.params=
+comment1.target=RectangleList()
+comment1.text=\n\ Constructs\ a\ Rectangle\ list\ to\ manage\ a\ list\ of\ Rectangles\n
+comment2.params=r
+comment2.target=void\ add(java.awt.Rectangle)
+comment2.text=\n\n\ Adds\ a\ Rectangle\ to\ the\ list\n\ @param\ r\ the\ rectangle\ to\ add\n
+comment3.params=
+comment3.target=java.awt.Rectangle\ largestPerimeter()
+comment3.text=\n\ Gets\ the\ Rectangle\ with\ the\ largest\ perimeter\n\ @return\ the\ rectangle\ with\ the\ largest\ perimeter\ or\ null\ if\n\ there\ are\ no\ rectangles\n\n
+numComments=4
