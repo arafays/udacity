@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Finance
+comment1.params=costOfDinner
+comment1.target=double\ getTip(double)
+numComments=2
