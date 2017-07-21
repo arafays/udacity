@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RectangleList
+comment1.params=theList
+comment1.target=RectangleList(java.util.ArrayList)
+comment1.text=\n\ Constructs\ a\ Rectangle\ list\ to\ manage\ this\ list\ of\ Rectangles\n\ @param\ theList\ the\ lest\ of\ Rectangles\ to\ manage\n
+comment2.params=
+comment2.target=java.awt.Rectangle\ smallestArea()
+comment2.text=\n\ Gets\ the\ Rectangle\ with\ the\ smallest\ area\n\ @return\ the\ rectangle\ with\ the\ smallest\ area\ or\ null\ if\n\ there\ are\ no\ rectangles\n\n
+numComments=3
